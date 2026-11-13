@@ -1,0 +1,9 @@
+h1 { text-align: center}
+input:focus {
+  border-color: var(--purple);
+  box-shadow: 0 0 0 3px #7c3aed33;
+}
+.boton:hover {
+  background: var(--purple);
+  transform: scale(1.08);
+}
